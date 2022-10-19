@@ -7,3 +7,11 @@ I downloaded a dataset of the continental United States containing rasterized la
 <img src="MT_Land_Dash.jpg">
  
 
+Software Used: QGIS & Tableau
+
+
+Resources:
+
+https://www.mrlc.gov/data
+
+https://catalog.data.gov/dataset/tiger-line-shapefile-2016-state-montana-current-county-subdivision-state-based
